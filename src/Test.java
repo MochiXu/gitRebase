@@ -4,6 +4,8 @@ public class Test {
         System.out.println("main init");
         //main
         System.out.println("main commit 1");
+        //main
+        System.out.println("main commit 2");
 
     }
 }
