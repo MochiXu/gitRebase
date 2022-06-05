@@ -4,8 +4,9 @@ public class Test {
         System.out.println("main init");
         //main
         System.out.println("main commit 1");
-        //main
+        // others changed the main brach
         System.out.println("main commit 2");
+        System.out.println("others");
 
     }
 }
