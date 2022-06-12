@@ -24,5 +24,7 @@ public class Test {
             System.out.print("This is a log");
             System.out.print("This is a log");
         }
+        System.out.print("This is a 3 log");
+
     }
 }
